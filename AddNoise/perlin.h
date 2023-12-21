@@ -2,6 +2,7 @@
 
 #include <cmath>
 #include <vector>
+#include <cstdint>
 
 // permutation table size
 static constexpr int PERM_SIZE = 256;
